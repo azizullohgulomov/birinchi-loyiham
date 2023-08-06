@@ -1,2 +1,2 @@
 # birinchi-loyiham
-Ushbu loyihada ekranga "Hello World" so'zini chiqaraman.
+Ushbu loyihada ekranga "Hello World" jumlasini chiqaraman.
